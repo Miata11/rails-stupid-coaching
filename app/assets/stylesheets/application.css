@@ -13,3 +13,12 @@
  *= require_tree .
  *= require_self
  */
+body {
+  background-color: rgb(30, 194, 200);
+  font-family: 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+  font-weight: bold;
+  text-transform: uppercase;
+}
